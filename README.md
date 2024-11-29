@@ -2,12 +2,21 @@
 
 ### Autor
 **Amer Mujalo**  
-Email: [amujalo1@etf.unsa.ba](mailto:amujalo1@etf.unsa.ba)
+Email: [amujalo1@etf.unsa.ba](mailto:amujalo1@etf.unsa.ba)  
+Student Elektrotehničkog fakulteta u Sarajevu  
+
+---
+
+### Video demonstracija
+Pogledajte video koji prikazuje kako projekat funkcioniše:  
+[LAN.AttendanceSystem - Demonstracija](https://www.youtube.com/watch?v=esGpd_t2L-c)
 
 ---
 
 ### Opis projekta
 LAN.AttendanceSystem je sistem za praćenje prisustva studenata baziran na lokalnoj mreži, koji koristi **Raspberry Pi Pico W** za kreiranje mrežnog okruženja. Studenti se prijavljuju povezivanjem na mrežu i automatski se evidentiraju u sistemu. Cilj projekta je pružiti brz, pouzdan i automatizovan način evidentiranja prisustva.
+
+Ovaj projekat je realizovan u sklopu projektnog zadatka na predmetu **Ugradbeni sistemi**.
 
 ---
 
